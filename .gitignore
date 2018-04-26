@@ -1,0 +1,6 @@
+bin/OpenGLLearn.exe
+bin/OpenGLLearn.ilk
+bin/OpenGLLearn.pdb
+src/OpenGLLearn/OpenGLLearn.*
+src/OpenGLLearn/Debug/
+src/OpenGLLearn/.vs/
